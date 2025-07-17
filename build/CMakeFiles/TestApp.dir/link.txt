@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/TestApp.dir/src/main.cpp.o CMakeFiles/TestApp.dir/src/apps/first_app.cpp.o CMakeFiles/TestApp.dir/src/core/window/lve_window.cpp.o -o TestApp  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib
